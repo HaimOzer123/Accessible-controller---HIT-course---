@@ -7,7 +7,7 @@ For a comprehensive overview of the project, including the design process, imple
 please refer to the Word document included in this repository.
 
 ## Author
-**Haim Ozer**
+**Haim Ozer** , 
 **Shon Pazarker**
 
 ## How to Run the Project

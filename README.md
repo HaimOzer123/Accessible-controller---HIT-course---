@@ -8,6 +8,7 @@ please refer to the Word document included in this repository.
 
 ## Author
 **Haim Ozer**
+**Shon Pazarker**
 
 ## How to Run the Project
 
@@ -21,3 +22,7 @@ please refer to the Word document included in this repository.
 
 3. **View the Demo:**
    - Follow the [link](https://drive.google.com/file/d/1vSkdvnjwerzgpZIzJLS1BCclo6dtPHIp/view) to watch the demo video.
+  
+     
+# Acknowledgments
+Special thanks to Dr. אביחי אהרון for his guidance and support throughout the project.
